@@ -56,7 +56,7 @@ $$ p = \frac{e^{(r-q)\Delta t} - d}{u-d} $$
 ---
 連續複利之預期年報酬率
 
-$$ \mu \frac{\sigma ^2}{2} $$
+$$ \mu - \frac{\sigma ^2}{2} $$
 
 - $\mu$=股票期望報酬率
 - $\sigma$=波動率
